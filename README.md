@@ -1,4 +1,7 @@
+
+
 # Furn – Furniture E-commerce HTML5 Template
+The live, publicly available version of the site can be accessed at [https://your-url-here.com](https://raperez81.github.io/furn/)
 
 ---
 
@@ -36,3 +39,4 @@ We would love to see how you use this amazing html5 template. You can notify us 
 Copyright (c) 2018 ThemeSINE
 
 Furn is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that ThemeSINE is the original author of this template.
+
